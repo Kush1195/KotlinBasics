@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinBasics</string>
+    <string name="new_intent_activity">New Intent Activity</string>
+</resources>
